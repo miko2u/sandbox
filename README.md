@@ -22,11 +22,14 @@ README - Sandbox
 ---
 
 タブもしくは４スペースなのかな？
+
 	int main(int argc, char *argv[])
 	{
 		printf("Hello, world\n");
 		return 0;
 	}
+
+何かを行う時に、空行が必要なのね(^^;
 
 ---
 
